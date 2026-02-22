@@ -1,4 +1,6 @@
 📘 PROJETOS EM PYTHON
+
+
 Repositório de projetos desenvolvidos durante meu aprendizado em Python.
 
 Este repositório reúne exercícios, desafios e pequenos projetos criados ao longo da minha jornada de estudos em programação. Cada arquivo representa uma etapa da evolução no entendimento da linguagem, cobrindo desde conceitos básicos até estruturas mais avançadas.
